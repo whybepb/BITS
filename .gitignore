@@ -1,0 +1,9 @@
+# Ignore system files
+.DS_Store
+
+# Ignore Docker files
+*.tar
+*.log
+
+# Ignore submission docs
+screenshots.pdf
